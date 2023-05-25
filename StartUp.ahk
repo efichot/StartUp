@@ -1,10 +1,5 @@
 ﻿#SingleInstance, Force
 
-LControl::LAlt
-LAlt::LControl
-RControl::RAlt
-RAlt::RControl
-
 #w::^F4
 #q::!F4
 #c::#v
